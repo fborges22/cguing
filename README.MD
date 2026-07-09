@@ -6,7 +6,7 @@ This repository contains the CGUI source code, examples, build scripts for multi
 
 ## Version
 
-- Library version: 2.1.0
+- Library version: 2.1.1
 - Public header version macros: `CGUI_VERSION_MAJOR`, `CGUI_VERSION_MINOR`, `CGUI_VERSION_PATCH`
 
 ## Features

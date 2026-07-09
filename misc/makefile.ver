@@ -6,5 +6,5 @@ LIB_VERSION = 21
 
 # Shared library versions for Unix
 # todo: this is unused at the moment
-shared_version = 2.1.0
+shared_version = 2.1.1
 shared_major_minor = 2.1

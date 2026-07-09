@@ -9,7 +9,7 @@
 @#locale=latin1
 @document_title=CGUI Contributors
 @# Note: this version number is patched by fixver.sh
-@manh="version 2.1.0" "CGUI" "CGUI thanks"
+@manh="version 2.1.1" "CGUI" "CGUI thanks"
 @rtfh=Adime Thanks List
 @$\input texinfo
 @$@setfilename thanks.inf
@@ -48,7 +48,7 @@ Contributors
 <li>
    Laze Ristoski spotted some bugs and feature requests.
 <li>
-   Márcio A. Pacheco contributed Portuguese
+   Mï¿½rcio A. Pacheco contributed Portuguese
    translation of dialog texts.
 <li>
    Jesse Brockmann contributed with bugfixes.
@@ -60,7 +60,7 @@ Contributors
    Oscar Giner contributed Spanish
    translation of dialog texts.
 <li>
-   Ferenc Havránek contributed Hungarian
+   Ferenc Havrï¿½nek contributed Hungarian
    translation of dialog texts.
 <li>
    Si-lam Choy (<email>sichoy@excite.com</a>) contributed with e.g. fixing

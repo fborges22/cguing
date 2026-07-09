@@ -24,7 +24,7 @@
 #define CGUI_VERSION_MAJOR      2
 #define CGUI_VERSION_MINOR      1
 #define CGUI_VERSION_PATCH      0
-#define CGUI_VERSION_STRING     "2.1.0"
+#define CGUI_VERSION_STRING     "2.1.1"
 #define CGUI_DATE               20190110    /* yyyymmdd */
 #define CGUI_DATE_STRING "Jan 10, 2019"
 
